@@ -46,18 +46,18 @@ Scaling Data
 
 6) Modeling
    
-1. Supervised Learning
+* Supervised Learning
    
 a. Feature Selection
 b. Dataset Partition
 c. Fitting Models
 
-3. Unsupervised Learning
+* Unsupervised Learning
    
 a. Clustering
 b. Anomaly Detection
 c. Dimensionality Reduction
 
-5. Deep Learning
+*  Deep Learning
    
 7) Model Evaluation
