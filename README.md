@@ -37,3 +37,27 @@ Description: The dataset represents simulated intrusions in a military network e
 --> Identified relevant hypotheses related to the dataset, such as differences in means or distributions.
 --> Chose appropriate statistical tests (e.g., t-tests, Mann-Whitney U test) based on the nature of the hypotheses and data distribution.
 --> Conducted hypothesis tests to determine the statistical significance of observed differences.
+
+5) Data Preprocessing
+   
+Removing Null Values (if exists)
+Encoding Categorical Data
+Scaling Data
+
+6) Modeling
+   
+1. Supervised Learning
+   
+a. Feature Selection
+b. Dataset Partition
+c. Fitting Models
+
+3. Unsupervised Learning
+   
+a. Clustering
+b. Anomaly Detection
+c. Dimensionality Reduction
+
+5. Deep Learning
+   
+7) Model Evaluation
